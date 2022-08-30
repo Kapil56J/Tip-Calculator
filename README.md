@@ -28,12 +28,7 @@ Users Should be able to:
 
 * Desktop-Preview
 
-![Desktop-View]()
-
-* Mobile-Preview
-
-
-![mobile-design]()
+![Desktop-View](https://user-images.githubusercontent.com/103952813/187372559-d53825b3-7d64-49ef-ba0c-25b3d500d53a.png)
 
 
 ## Links
@@ -44,7 +39,7 @@ Users Should be able to:
 ## Roadmap
 
 - Build with
-    * Semantic HTmL5 markup
+    * Semantic HTML5 markup
     * CSS Properties
     * Javascript
 
